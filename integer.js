@@ -7,7 +7,7 @@
 //=============== masala 211=================
 
 
-// let c ="C++☺️"
+// let c ="C++"
 
 // function splitFunc (arr) {
 
@@ -66,4 +66,3 @@
 // }
 
 // console.log(array.filter(isPrime)); 
-
