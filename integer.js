@@ -207,18 +207,17 @@
 //=============== masala 217 ===============
 
 // function showMessage(n) {
-//   return n? "juft": "toq"
+  // return n? "juft": "toq"
 // }
-
 // function oddOrEven(b) {
-//   let tf =0
-//   if(b%2==0) {
-//     tf = true
-//     return showMessage(tf)
-//   }else {
-//     tf= false;
-//      return showMessage(tf)
-//   }
+  // let tf = 0
+  // if( b % 2 == 0) {
+    // tf = true
+    // return showMessage(tf)
+  // } else {
+    // tf= false;
+    //  return showMessage(tf)
+  // }
 // }
 // console.log(oddOrEven(4));
 
@@ -226,14 +225,14 @@
 //=============== masala 218 ===============
 
 // let arr = [
-//   [1, 2],
-//   [3, 4],
-//   [5, 6],[7, 8, 9],
-//   [10, 11, 12, 13, 14, 15]
+  // [1, 2],
+  // [3, 4],
+  // [5, 6],[7, 8, 9],
+  // [10, 11, 12, 13, 14, 15]
 // ];
-
+// 
 // let flatArray = arr.reduce((acc, curVal) => {
-//   return acc.concat(curVal)
+  // return acc.concat(curVal)
 // }, []);
 // console.log(flatArray);
 
@@ -241,28 +240,26 @@
 
 
 // function recursie(n) {
-
-//   if(n>=1 && n<=18) {
-//     return n===1 ? 1 : n*recursie(n-1)
-//   }
-//   else{
-//     return "1<=n<=18 bo'lishi kerak";
-//   }
-   
+  // if(n>=1 && n<=18) {
+    // return n===1 ? 1 : n*recursie(n-1)
+  // }
+  // else{
+    // return "1<=n<=18 bo'lishi kerak";
+  // }
 // }
 // console.log(recursie(10));
 
 //=============== masala 220 ===============
 
 // function recursie(n) {
-
-//   if(n>=1 && n<=18) {
-//     return n===1 ? 1 : n*recursie(n-1)
-//   }
-//   else{
-//     return "1<=n<=18 bo'lishi kerak";
-//   }
-   
+// 
+  // if(n>=1 && n<=18) {
+    // return n===1 ? 1 : n*recursie(n-1)
+  // }
+  // else{
+    // return "1<=n<=18 bo'lishi kerak";
+  // }
+  //  
 // }
 // console.log(recursie(10));
 
